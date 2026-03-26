@@ -4,7 +4,7 @@
 <p align="center">
 🚀 Passionate about building scalable web & software solutions  
 ⚡ Turning ideas into real-world projects  
-📈 Always learning, always shipping
+📈 Always learning
 </p>
 
 ---
