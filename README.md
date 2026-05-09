@@ -51,7 +51,6 @@
 ## 🚀 What I'm Working On
 - 🔥 Full Stack Projects
 - 🤖 AI + Web Integration
-- 📦 Open Source Contributions (GSoC Target 🎯)
 
 ---
 
