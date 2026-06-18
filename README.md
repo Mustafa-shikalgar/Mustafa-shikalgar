@@ -11,7 +11,7 @@ Building scalable applications, exploring AI-driven solutions, and continuously 
 
 - 🎓 B.Tech CSE Student at Walchand College of Engineering, Sangli
 - 💻 Passionate about Full-Stack Development, AI/ML, and Cyber Security
-- 🚀 Building real-world projects using modern technologies
+- 🚀 Building real-world software solutions
 - 🌱 Currently learning Advanced Backend Development, Docker, and AI Integration
 - 🤝 Open to internships, collaborations, and open-source contributions
 
@@ -54,38 +54,19 @@ Building scalable applications, exploring AI-driven solutions, and continuously 
 <img src="https://skillicons.dev/icons?i=git,github,docker,arduino" />
 </p>
 
-### 🎨 Design & UI
+### 🎨 Design
 <p>
 <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛋️ AR-Based Furniture Shop Management System
-- Developed an Augmented Reality application for furniture visualization
-- Enabled users to place and preview 3D furniture models in real-world environments
-- Built using React.js, Django, MongoDB, and AR technologies
-
-### 🤖 Invest Vault – AI Investment Platform
-- AI-powered financial assistant using Google Gemini API
-- Personalized investment insights and financial guidance
-- Full-stack web application with modern UI
-
-### 🔐 Android APK Malware Detection using Explainable AI
-- Machine Learning-based Android malware detection system
-- Implemented SHAP and LIME for model explainability
-- Focused on cybersecurity and AI-driven threat analysis
-
----
-
 ## 📈 Current Focus
 
 - Full-Stack Development
+- Artificial Intelligence & Machine Learning
 - Docker & Cloud Technologies
-- AI/ML Applications
-- Cyber Security Research
+- Cyber Security
 - Open Source Contributions
 
 ---
