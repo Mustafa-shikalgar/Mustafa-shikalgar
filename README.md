@@ -77,14 +77,15 @@ Building scalable applications, exploring AI-driven solutions, and continuously 
 <a href="https://www.linkedin.com/in/mustafa-shikalgar">
 <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Shikalgar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<br>
 <a href="mailto:mustafashikalgar2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<br>
 <a href="https://your-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+<br>
 ---
 
 <p align="center">
