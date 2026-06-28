@@ -82,10 +82,9 @@ Building scalable applications, exploring AI-driven solutions, and continuously 
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-gamma-six-nqx8fnurr7.vercel.app/">
+<a href="https://your-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 ---
 
 <p align="center">
