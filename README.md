@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shikalgar</h1>
-<h3 align="center">Computer Science & Engineering Student </h3>
 
 <p align="center">
 Building scalable applications, exploring AI-driven solutions, and continuously improving my software engineering skills.
