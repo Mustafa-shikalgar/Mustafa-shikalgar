@@ -176,7 +176,7 @@ Docker                   █████████░░░░░░░ 60%
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Mustafa-shikalgar/Mustafa-shikalgar/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Mustafa-shikalgar/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
