@@ -112,7 +112,7 @@ Java • Python • React • Node.js • Docker • MySQL • MongoDB
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafashikalgar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,7 +122,7 @@ Java • Python • React • Node.js • Docker • MySQL • MongoDB
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
