@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shikalgar</h1>
 
 <h3 align="center">
-B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast • Open Source Contributor
+B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast 
 </h3>
 
 <p align="center">
@@ -68,18 +68,6 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -95,16 +83,6 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mustafa-shikalgar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -186,7 +164,7 @@ Docker                   █████████░░░░░░░ 60%
 
 <p align="center">
 
-> **"Code is not just about making computers work — it's about building solutions that make people's lives better."**
+> **"Code is not just about making computers work - it's about building solutions that make people's lives better."**
 
 </p>
 
