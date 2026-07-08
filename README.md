@@ -140,7 +140,6 @@ Docker                   █████████░░░░░░░ 60%
 
 # 🐍 Contribution Snake
 
-> **Note:** This animation works only after setting up a GitHub Action.
 
 <p align="center">
 
