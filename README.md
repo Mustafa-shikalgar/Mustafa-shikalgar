@@ -10,12 +10,6 @@ B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Backend+Developer;Open+Source+Contributor;Building+Technology+That+Solves+Real+World+Problems🚀" />
-
-</p>
-
-<p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Mustafa-shikalgar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Mustafa-shikalgar?style=for-the-badge&logo=github"/>
@@ -110,8 +104,6 @@ Java                     ███████████████░ 90%
 
 Python                   ████████████░░░░ 75%
 
-Machine Learning         ██████████░░░░░░ 65%
-
 Docker                   █████████░░░░░░░ 60%
 ```
 
@@ -121,10 +113,8 @@ Docker                   █████████░░░░░░░ 60%
 
 - 🤖 Android Malware Detection using Machine Learning
 - 💰 Offline Payment Application
+- 🧠 MEET IQ - AI-powered Meeting Assistant for smart meeting management and collaboration
 - 💬 AI Chatbot using LLM
-- 📹 Java Video Calling Application
-- 🏦 KhataBook Clone (Android)
-- 🌐 Portfolio Website
 
 ---
 
