@@ -1,95 +1,229 @@
-<h1 align="center">Hi 👋, I'm Mustafa Shikalgar</h1>
+<h1 align="center">
+Hi 👋, I'm Mustafa Shikalgar
+</h1>
+
+<h3 align="center">
+B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast • Open Source Contributor
+</h3>
 
 <p align="center">
-Building scalable applications, exploring AI-driven solutions, and continuously improving my software engineering skills.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+New+Technologies🚀" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mustafa-shikalgar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Mustafa-shikalgar?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Mustafa-shikalgar?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student at Walchand College of Engineering, Sangli
-- 💻 Passionate about Full-Stack Development, AI/ML, and Cyber Security
-- 🚀 Building real-world software solutions
-- 🌱 Currently learning Advanced Backend Development, Docker, and AI Integration
-- 🤝 Open to internships, collaborations, and open-source contributions
+🎓 B.Tech Computer Science & Engineering Student at **Walchand College of Engineering, Sangli**
+
+💻 Passionate about building scalable software and solving real-world problems
+
+🚀 Interested in
+
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Backend Development
+- Cyber Security
+- Open Source
+
+🌱 Currently Learning
+
+- Docker
+- System Design
+- Cloud Computing
+- Advanced Backend Development
+- AI Integration
+
+💬 Ask me about
+
+```
+Java • Python • React • Node.js • Docker • MySQL • MongoDB
+```
+
+🤝 Always open to
+
+- Open Source Contributions
+- Internship Opportunities
+- Collaboration
+- Innovative Projects
 
 ---
 
-## 🔥 GitHub Activity
+# 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=react-dark" />
-</p>
+### Programming Languages
 
----
-
-## 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,django" />
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🗄️ Databases
-<p>
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,php,django" />
+</p>
+
+### Database
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### 🤖 AI / Machine Learning
-<p>
+### AI / ML
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,arduino" />
-</p>
+### Tools
 
-### 🎨 Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,arduino" />
 </p>
 
 ---
 
-## 📈 Current Focus
+# 📊 GitHub Analytics
 
-- Full-Stack Development
-- Artificial Intelligence & Machine Learning
-- Docker & Cloud Technologies
-- Cyber Security
-- Open Source Contributions
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mustafa-shikalgar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Scalable Full Stack Applications
+- 🤖 Exploring Artificial Intelligence
+- ☁️ Learning Docker & Cloud
+- 🛡️ Cyber Security
+- 🌍 Open Source Contributions
+
+---
+
+# 🌟 Featured Skills
+
+```text
+Backend Development     ██████████████ 90%
+
+Frontend Development    ████████████░ 80%
+
+Java                    ██████████████ 90%
+
+Python                  ███████████░░ 75%
+
+Machine Learning        █████████░░░░ 65%
+
+Docker                  ████████░░░░░ 60%
+```
+
+---
+
+# 🤝 Let's Connect
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mustafa-shikalgar">
-<img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Shikalgar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
-<br><br>
 
 <a href="mailto:mustafashikalgar2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
-<br><br>
 
 <a href="https://portfolio-gamma-six-nqx8fnurr7.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 </p>
 
+---
+
+# 🐍 Contribution Snake
+
 <p align="center">
-<i>"Building technology that solves real-world problems."</i>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> "Code is not just written to make computers work — it's written to solve real-world problems."
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</h3>
