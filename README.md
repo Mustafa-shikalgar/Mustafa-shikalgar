@@ -3,7 +3,7 @@ Hi 👋, I'm Mustafa Shikalgar
 </h1>
 
 <h3 align="center">
-B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast • Open Source Contributor
+B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast 
 </h3>
 
 <p align="center">
