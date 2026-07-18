@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Shikalgar</h1>
 
 <h3 align="center">
-B.Tech Computer Science Student • Full Stack Developer • AI Enthusiast 
+B.Tech Computer Science Student • Developer 
 </h3>
 
 <p align="center">
