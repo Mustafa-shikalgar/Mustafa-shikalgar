@@ -66,13 +66,14 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true&v=2"/>
 
 </p>
 
 ---
 
 # 📈 Contribution Graph
+---
 
 <p align="center">
   <img
