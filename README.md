@@ -56,7 +56,7 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,php,django,mysql,mongodb,sqlite,docker,git,github,linux,vscode,figma,arduino,pytorch&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,spring,php,django,mysql,postgres,mongodb,redis,firebase,supabase,docker,kubernetes,aws,git,github,linux,bash,vscode,idea,postman,figma,opencv,tensorflow,pytorch,arduino,raspberrypi&perline=8"/>
 
 </p>
 
