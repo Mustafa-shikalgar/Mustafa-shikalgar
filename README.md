@@ -65,9 +65,10 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true&v=2"/>
-
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
