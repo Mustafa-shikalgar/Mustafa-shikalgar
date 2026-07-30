@@ -77,8 +77,7 @@ Java • Python • React • Node.js • MySQL • MongoDB • Docker
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&hide_title=true&area=true&radius=12&height=350&grid=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true"
     alt="Contribution Graph"
   />
 </p>
