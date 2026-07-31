@@ -22,10 +22,6 @@ Building software that solves real-world problems.
   <a href="https://github.com/Mustafa-shikalgar"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
   <a href="https://www.linkedin.com/in/mustafa-shikalgar"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
   <a href="https://portfolio-gamma-six-nqx8fnurr7.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=vercel&logoColor=7dcfff"/></a>
-  <a href="https://twitter.com/mustafa_shikalgar"><img src="https://img.shields.io/badge/Twitter-1a1b26?style=for-the-badge&logo=x&logoColor=7dcfff"/></a>
-  <a href="https://leetcode.com/u/mustafa_shikalgar"><img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=e0af68"/></a>
-  <a href="https://codeforces.com/profile/mustafashikalgar"><img src="https://img.shields.io/badge/Codeforces-1a1b26?style=for-the-badge&logo=codeforces&logoColor=bb9af7"/></a>
-  <a href="https://www.geeksforgeeks.org/user/mustafashikalgar"><img src="https://img.shields.io/badge/GFG-1a1b26?style=for-the-badge&logo=geeksforgeeks&logoColor=9ece6a"/></a>
   <a href="mailto:mustafashikalgar2@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e"/></a>
 </p>
 
