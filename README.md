@@ -15,7 +15,7 @@ Building software that solves real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -194,10 +194,6 @@ Building software that solves real-world problems.
   <img src="https://raw.githubusercontent.com/Mustafa-shikalgar/Mustafa-shikalgar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mustafa-shikalgar/Mustafa-shikalgar/main/pacman.svg"/>
-</p>
-
 ---
 
 <p align="center">
@@ -214,7 +210,6 @@ Building software that solves real-world problems.
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/><br/>
-Thanks for stopping by!<br/><br/>
 If you like my work, feel free to star ⭐ a repository or connect with me.<br/><br/>
 Happy Coding 🚀<br/><br/>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
