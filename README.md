@@ -36,20 +36,26 @@ Building software that solves real-world problems.
 
 <table>
   <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 Computer Science student at <b>Walchand College of Engineering</b></li>
-        <li>💡 Passionate about scalable backend systems and AI-powered applications</li>
-        <li>🚀 Building products that solve real-world problems</li>
-        <li>📚 Currently exploring System Design, Docker and Cloud</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" height="auto" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+    <td width="62%">
 
+### 👋 Hey, I'm Mustafa
+
+- **Computer Science & Engineering** student at **Walchand College of Engineering, Sangli**
+- Passionate about **Backend Development, Full-Stack Development, and AI-powered Applications**
+- Building scalable applications that solve real-world problems
+- Currently expanding my open-source contributions while learning from the community
+- Exploring **System Design, Docker, Cloud Computing, and DevOps**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Automation**
+- Always excited to collaborate on innovative projects and hackathons
+
+</td>
+
+<td width="38%" align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF"/>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📌 Current Goals
@@ -103,10 +109,6 @@ Building software that solves real-world problems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="48%" alt="Activity Graph"/>
-</p>
 
 ---
 
