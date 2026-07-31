@@ -7,7 +7,7 @@ Hi 👋 I'm Mustafa Shikalgar
 </h1>
 
 <h3 align="center">
-Computer Science Engineer • Full Stack Developer • Open Source Contributor
+Computer Science Engineer • Full Stack Developer 
 </h3>
 
 <p align="center">
