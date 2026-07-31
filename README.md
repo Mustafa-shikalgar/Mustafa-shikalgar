@@ -17,6 +17,11 @@ Building software that solves real-world problems.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mustafa-shikalgar&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Mustafa-shikalgar?style=for-the-badge&logo=github&color=7dcfff&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/github/stars/Mustafa-shikalgar?affiliations=OWNER&style=for-the-badge&color=e0af68&labelColor=1a1b26"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Mustafa-shikalgar"><img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
@@ -135,15 +140,6 @@ Building software that solves real-world problems.
       </p>
     </td>
     <td align="center" width="33%">
-      <h3>💰 Offline Payment App</h3>
-      <p>Peer-to-peer payment system with Bluetooth</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=java&logoColor=7aa2f7"/>
-        <img src="https://img.shields.io/badge/SQLite-1a1b26?style=flat-square&logo=sqlite&logoColor=7dcfff"/>
-        <img src="https://img.shields.io/badge/Bluetooth-1a1b26?style=flat-square&logo=bluetooth&logoColor=7aa2f7"/>
-      </p>
-    </td>
-    <td align="center" width="33%">
       <h3>🧠 MeetIQ</h3>
       <p>AI-powered meeting assistant for smart collaboration</p>
       <p>
@@ -167,33 +163,13 @@ Building software that solves real-world problems.
 
 ---
 
-## 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake & Pacman
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mustafa-shikalgar/Mustafa-shikalgar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mustafa-shikalgar&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Mustafa-shikalgar?style=for-the-badge&logo=github&color=7dcfff&labelColor=1a1b26"/>
-  <img src="https://img.shields.io/github/stars/Mustafa-shikalgar?affiliations=OWNER&style=for-the-badge&color=e0af68&labelColor=1a1b26"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mustafa-shikalgar/Mustafa-shikalgar/main/banner.svg" height="5"/>
-</p>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br/><br/>
