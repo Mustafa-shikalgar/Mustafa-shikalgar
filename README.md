@@ -35,8 +35,6 @@ Building software that solves real-world problems.
       <ul>
         <li>🎓 Computer Science student at <b>Walchand College of Engineering</b></li>
         <li>💡 Passionate about scalable backend systems and AI-powered applications</li>
-        <li>🌍 Open Source Contributor (Supabase)</li>
-        <li>🏆 Solved 400+ DSA problems</li>
         <li>🚀 Building products that solve real-world problems</li>
         <li>📚 Currently exploring System Design, Docker and Cloud</li>
       </ul>
@@ -46,17 +44,6 @@ Building software that solves real-world problems.
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/400%2B-DSA%20Problems-7aa2f7?style=for-the-badge&labelColor=1a1b26"/>
-  <img src="https://img.shields.io/badge/15%2B-Projects-7dcfff?style=for-the-badge&labelColor=1a1b26"/>
-  <img src="https://img.shields.io/badge/30%2B-Repositories-9ece6a?style=for-the-badge&labelColor=1a1b26"/>
-  <img src="https://img.shields.io/badge/100%2B-Contributions-e0af68?style=for-the-badge&labelColor=1a1b26"/>
-</p>
 
 ---
 
