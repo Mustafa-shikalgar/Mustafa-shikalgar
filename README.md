@@ -103,15 +103,21 @@ Building software that solves real-world problems.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Stats"/>
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
