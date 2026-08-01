@@ -122,9 +122,8 @@ Building software that solves real-world problems.
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&days=365&custom_title=Mustafa%20Shikalgar's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&days=365&custom_title=Mustafa's%20Contribution%20Graph" width="100%"/>
 </p>
----
 
 ## 🌟 Featured Projects
 
