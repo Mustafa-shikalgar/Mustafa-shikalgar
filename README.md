@@ -104,17 +104,38 @@ Building software that solves real-world problems.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mustafa-shikalgar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mustafa-shikalgar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -122,8 +143,14 @@ Building software that solves real-world problems.
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&days=365&custom_title=Mustafa's%20Contribution%20Graph" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa%20Shikalgar's%20Contribution%20Graph"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
+
+---
 
 ## 🌟 Featured Projects
 
