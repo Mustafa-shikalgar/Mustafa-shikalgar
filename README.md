@@ -56,15 +56,14 @@ Building software that solves real-world problems.
 
 </tr>
 </table>
----
 
 ## 📌 Current Goals
 
-- ✔ Contribute to Open Source
-- ✔ Master System Design
-- ✔ Build SaaS Projects
-- ✔ Crack Top Software Internships
-- ✔ Learn Kubernetes
+- Contribute to Open Source
+- Master System Design
+- Build SaaS Projects
+- Crack Top Software Internships
+- Learn Kubernetes
 
 ---
 
