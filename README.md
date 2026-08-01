@@ -45,7 +45,7 @@ Building software that solves real-world problems.
 - Building scalable applications that solve real-world problems
 - Currently expanding my open-source contributions while learning from the community
 - Exploring **System Design, Docker, Cloud Computing, and DevOps**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Automation**
+- Interested in **Artificial Intelligence, Machine Learning, and Automation**
 - Always excited to collaborate on innovative projects and hackathons
 
 </td>
