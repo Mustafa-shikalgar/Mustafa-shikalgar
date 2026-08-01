@@ -133,17 +133,26 @@ Building software that solves real-world problems.
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🤖 Android Malware Detection</h3>
-      <p>ML-powered malware detection using TensorFlow</p>
+      <h3>🛡️ Sentinel AI</h3>
+      <p>AI-powered Android malware detection and APK security analysis platform.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=java&logoColor=7aa2f7"/>
+        <img src="https://img.shields.io/badge/Java-1a1b26?style=flat-square&logo=openjdk&logoColor=7aa2f7"/>
         <img src="https://img.shields.io/badge/TensorFlow-1a1b26?style=flat-square&logo=tensorflow&logoColor=e0af68"/>
-        <img src="https://img.shields.io/badge/ML-1a1b26?style=flat-square&logo=scikitlearn&logoColor=9ece6a"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-1a1b26?style=flat-square&logo=scikitlearn&logoColor=9ece6a"/>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💰 Invest Vault</h3>
+      <p>Personal finance platform for tracking expenses, budgets, and investments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7dcfff"/>
+        <img src="https://img.shields.io/badge/Supabase-1a1b26?style=flat-square&logo=supabase&logoColor=bb9af7"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-1a1b26?style=flat-square&logo=tailwindcss&logoColor=38bdf8"/>
       </p>
     </td>
     <td align="center" width="33%">
       <h3>🧠 MeetIQ</h3>
-      <p>AI-powered meeting assistant for smart collaboration</p>
+      <p>AI-powered meeting intelligence platform with transcription, summaries, and actionable insights.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7dcfff"/>
         <img src="https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=node.js&logoColor=9ece6a"/>
