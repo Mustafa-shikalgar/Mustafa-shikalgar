@@ -107,8 +107,7 @@ Building software that solves real-world problems.
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mustafa-shikalgar&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<img src="https://ghstats.dev/api/card?username=Mustafa-shikalgar&theme=tokyonight" />
 </td>
 
 <td width="50%" align="center">
