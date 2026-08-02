@@ -139,10 +139,7 @@ Building software that solves real-world problems.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Mustafa-shikalgar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
-    alt="GitHub Trophies"
-  />
+  <img src="https://metrics.lecoq.io/Mustafa-shikalgar?template=classic" />
 </p>
 
 ---
