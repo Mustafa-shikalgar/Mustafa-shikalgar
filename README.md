@@ -112,7 +112,10 @@ Building software that solves real-world problems.
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  height="200"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+/>
 
 </td>
 </tr>
