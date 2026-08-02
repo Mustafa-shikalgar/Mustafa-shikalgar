@@ -136,14 +136,6 @@ Building software that solves real-world problems.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Mustafa-shikalgar?template=classic" />
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 <p align="center">
