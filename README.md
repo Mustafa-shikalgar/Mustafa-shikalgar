@@ -107,7 +107,9 @@ Building software that solves real-world problems.
 <tr>
 <td width="50%" align="center">
 
-<img src="https://ghstats.dev/api/card?username=Mustafa-shikalgar&theme=tokyonight" />
+<img 
+  heigth="200"
+  src="https://ghstats.dev/api/card?username=Mustafa-shikalgar&theme=tokyonight" />
 </td>
 
 <td width="50%" align="center">
