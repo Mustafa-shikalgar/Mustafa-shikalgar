@@ -129,7 +129,7 @@ Building software that solves real-world problems.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mustafa-shikalgar&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
