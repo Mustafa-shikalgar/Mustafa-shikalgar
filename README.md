@@ -106,19 +106,16 @@ Building software that solves real-world problems.
 <table align="center">
 <tr>
 <td width="50%" align="center">
-
 <img 
   heigth="200"
   src="https://ghstats.dev/api/card?username=Mustafa-shikalgar&theme=tokyonight" />
 </td>
 
 <td width="50%" align="center">
-
 <img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
-/>
-
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+  />
 </td>
 </tr>
 </table>
