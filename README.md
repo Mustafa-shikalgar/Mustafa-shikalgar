@@ -121,14 +121,10 @@ Building software that solves real-world problems.
 </table>
 
 ---
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
@@ -136,13 +132,8 @@ Building software that solves real-world problems.
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa%20Shikalgar%27s%20Contribution%20Graph"
-    alt="GitHub Activity Graph"
-  />
+  <img src="./assets/github-activity.svg" alt="GitHub Activity Graph" />
 </p>
-
----
 ---
 
 ## 🌟 Featured Projects
