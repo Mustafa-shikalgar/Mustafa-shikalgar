@@ -100,7 +100,57 @@ Building software that solves real-world problems.
 </p>
 
 ---
+## 📊 GitHub Analytics
 
+<table align="center">
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="https://ghstats.dev/api/card?username=Mustafa-shikalgar&theme=tokyonight"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=Mustafa-shikalgar&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+  alt="Top Languages"
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Mustafa-shikalgar&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-shikalgar&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
 
 
 ## 🌟 Featured Projects
